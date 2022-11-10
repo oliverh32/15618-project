@@ -9,7 +9,7 @@ sitemap:
 ---
 <!-- <p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p> -->
 <br>
-## Summary
+### Summary
 
 In this project, we are going to implement parallel versions of Gradient Boosting Decision Tree (GBDT) algorithm. First, we will write a serial version of GBDT and then build the CPU parallel versions via Open MP and MPI, respectively. If there are GPU resources available, we also plan to implement GPU parallel version. Performance will be compared with sequential and parallel implementation of standard libraries such as XGBoost and LightGBM.
 
